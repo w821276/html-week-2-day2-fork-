@@ -1,6 +1,6 @@
 # week-2-day2
 
-# Your very first Article Page
+## Your very first Article Page
 
 This README will guide you through creating an HTML page and managing it using GitHub. We will cover basic HTML elements and how to save and share your work.
 
